@@ -1,0 +1,5 @@
+![Image1](https://github.com/ImenSadki/Data-Transformation-from-SQL-to-NoSQL/assets/98115220/4d4deed7-e267-4dfc-bba4-e6b55a1e565b)
+![Image5](https://github.com/ImenSadki/Data-Transformation-from-SQL-to-NoSQL/assets/98115220/d1c06e1d-11db-4098-9e2c-e8511d1cb26e)
+![Image4](https://github.com/ImenSadki/Data-Transformation-from-SQL-to-NoSQL/assets/98115220/cd3119ad-21fe-43a2-a470-e74c5dede5d9)
+![Image3](https://github.com/ImenSadki/Data-Transformation-from-SQL-to-NoSQL/assets/98115220/66633b0f-54ad-4aac-8124-366e543dfa11)
+![Image2](https://github.com/ImenSadki/Data-Transformation-from-SQL-to-NoSQL/assets/98115220/efcb845c-1d7c-4a3a-b6e9-6b8d35eb81a7)
