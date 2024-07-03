@@ -1,0 +1,51 @@
+id;Age;Gender;Marital_Status;Family_Size;status.profission;status.Salaire;status.Revenu;Column1;_id;product-name;price
+1;25;Male;Single;3;Engineer;80000;75000;;6658ced5a6806912f76a2a7f;Big Mac;4.99
+2;30;Female;Married;2;Doctor;120000;100000;;6658ced5a6806912f76a2a80;Whopper;5.49
+3;22;Female;Single;1;Teacher;50000;45000;;6658ced5a6806912f76a2a81;Chicken Nuggets;3.99
+4;35;Male;Married;4;Software Developer;90000;85000;;6658ced5a6806912f76a2a82;Pizza;8.99
+5;28;Male;Single;2;Accountant;70000;65000;;6658ced5a6806912f76a2a83;French Fries;2.49
+6;27;Female;Married;3;Graphic Designer;60000;55000;;6658ced5a6806912f76a2a84;Cheeseburger;3.29
+7;24;Male;Single;2;Marketing Manager;100000;95000;;6658ced5a6806912f76a2a85;Hot Dog;2.99
+8;29;Female;Married;3;Writer;60000;55000;;6658ced5a6806912f76a2a86;Fish Sandwich;4.79
+9;31;Male;Single;1;Entrepreneur;150000;140000;;6658ced5a6806912f76a2a87;Chicken Sandwich;5.19
+10;26;Female;Single;2;Student;;15000;;6658ced5a6806912f76a2a88;Taco;2.99
+11;33;Male;Married;4;Nurse;55000;50000;;6658ced5a6806912f76a2a89;Burrito;6.49
+12;28;Female;Single;3;Architect;85000;80000;;6658ced5a6806912f76a2a8a;Onion Rings;3.49
+13;23;Male;Single;2;Lawyer;110000;105000;;6658ced5a6806912f76a2a8b;Milkshake;3.99
+14;34;Female;Married;5;Electrician;45000;40000;;6658ced5a6806912f76a2a8c;Sundae;2.79
+15;30;Male;Single;3;Chef;65000;60000;;6658ced5a6806912f76a2a8d;Apple Pie;1.49
+16;25;Female;Single;2;Police Officer;70000;65000;;6658ced5a6806912f76a2a8e;Salad;5.99
+17;32;Male;Married;4;Firefighter;75000;70000;;6658ced5a6806912f76a2a8f;Smoothie;4.29
+18;27;Female;Single;1;Pilot;130000;120000;;6658ced5a6806912f76a2a90;Wrap;6.99
+19;29;Male;Single;3;Librarian;50000;45000;;6658ced5a6806912f76a2a91;Grilled Cheese;3.79
+20;31;Female;Married;2;Real Estate Agent;75000;70000;;6658ced5a6806912f76a2a92;Chicken Tenders;4.49
+21;26;Male;Single;4;Pharmacist;100000;95000;;6658ced5a6806912f76a2a93;Sliders;3.69
+22;28;Female;Single;2;HR Manager;80000;75000;;6658ced5a6806912f76a2a94;Fish and Chips;7.49
+23;33;Male;Married;3;Web Developer;85000;80000;;6658ced5a6806912f76a2a95;Quesadilla;5.79
+24;30;Female;Single;1;Dentist;140000;130000;;6658ced5a6806912f76a2a96;Chili Cheese Fries;4.99
+25;35;Male;Single;2;Veterinarian;110000;105000;;6658ced5a6806912f76a2a97;Churros;2.99
+26;29;Female;Married;4;Journalist;55000;50000;;6658ced5a6806912f76a2a98;Soft Serve Ice Cream;1.99
+27;27;Male;Single;3;Plumber;50000;45000;;6658ced5a6806912f76a2a99;Coleslaw;1.29
+28;31;Female;Single;2;Mechanic;60000;55000;;6658ced5a6806912f76a2a9a;Loaded Nachos;6.99
+29;32;Male;Married;5;Flight Attendant;75000;70000;;6658ced5a6806912f76a2a9b;Chicken Wings;8.49
+30;24;Female;Single;2;Professor;90000;85000;;6658ced5a6806912f76a2a9c;Meatball Sub;5.99
+31;28;Male;Single;3;Electrician;45000;40000;;6658ced5a6806912f76a2a9d;Breakfast Sandwich;4.79
+32;30;Female;Married;1;Chef;65000;60000;;6658ced5a6806912f76a2a9e;Hash Browns;2.19
+33;35;Male;Single;2;Police Officer;70000;65000;;6658ced5a6806912f76a2a9f;Donut;1.79
+34;27;Female;Single;3;Firefighter;75000;70000;;6658ced5a6806912f76a2aa0;Tater Tots;2.99
+35;31;Male;Married;4;Pilot;130000;120000;;6658ced5a6806912f76a2aa1;Breakfast Burrito;5.49
+36;29;Female;Single;2;Librarian;50000;45000;;6658ced5a6806912f76a2aa2;Chili Dog;3.99
+37;26;Male;Single;3;Real Estate Agent;75000;70000;;6658ced5a6806912f76a2aa3;Grilled Chicken Salad;6.99
+38;34;Female;Married;4;Pharmacist;100000;95000;;6658ced5a6806912f76a2aa4;Fried Shrimp;7.99
+39;32;Male;Single;2;HR Manager;80000;75000;;6658ced5a6806912f76a2aa5;Macaroni and Cheese;4.49
+40;30;Female;Married;1;Web Developer;85000;80000;;6658ced5a6806912f76a2aa6;Soft Pretzel;2.49
+41;28;Male;Single;3;Dentist;140000;130000;;6658ced5a6806912f76a2aa7;Biscuit;1.29
+42;33;Female;Single;4;Veterinarian;110000;105000;;6658ced5a6806912f76a2aa8;Breakfast Wrap;4.99
+43;26;Male;Married;2;Journalist;55000;50000;;6658ced5a6806912f76a2aa9;Chicken Caesar Wrap;5.99
+44;31;Female;Single;3;Plumber;50000;45000;;6658ced5a6806912f76a2aaa;Fruit Cup;3.49
+45;27;Male;Single;2;Mechanic;60000;55000;;6658ced5a6806912f76a2aab;Breakfast Platter;7.99
+46;35;Female;Married;1;Flight Attendant;75000;70000;;6658ced5a6806912f76a2aac;Chicken Quesadilla;6.49
+47;30;Male;Single;3;Professor;90000;85000;;6658ced5a6806912f76a2aad;Grilled Chicken Sandwich;5.49
+48;32;Female;Single;4;Electrician;45000;40000;;6658ced5a6806912f76a2aae;Loaded Fries;4.99
+49;29;Male;Married;5;Chef;65000;60000;;;;
+50;34;Female;Single;2;Police Officer;70000;65000;;;;

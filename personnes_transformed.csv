@@ -1,0 +1,51 @@
+id;Age;Gender;Marital_Status;Family_Size;Column1;Status.profission;status.Salaire;status.Revenu
+1;25;Male;Single;3;;Engineer;80000;75000
+2;30;Female;Married;2;;Doctor;120000;100000
+3;22;Female;Single;1;;Teacher;50000;45000
+4;35;Male;Married;4;;Software Developer;90000;85000
+5;28;Male;Single;2;;Accountant;70000;65000
+6;27;Female;Married;3;;Graphic Designer;60000;55000
+7;24;Male;Single;2;;Marketing Manager;100000;95000
+8;29;Female;Married;3;;Writer;60000;55000
+9;31;Male;Single;1;;Entrepreneur;150000;140000
+10;26;Female;Single;2;;Student;;15000
+11;33;Male;Married;4;;Nurse;55000;50000
+12;28;Female;Single;3;;Architect;85000;80000
+13;23;Male;Single;2;;Lawyer;110000;105000
+14;34;Female;Married;5;;Electrician;45000;40000
+15;30;Male;Single;3;;Chef;65000;60000
+16;25;Female;Single;2;;Police Officer;70000;65000
+17;32;Male;Married;4;;Firefighter;75000;70000
+18;27;Female;Single;1;;Pilot;130000;120000
+19;29;Male;Single;3;;Librarian;50000;45000
+20;31;Female;Married;2;;Real Estate Agent;75000;70000
+21;26;Male;Single;4;;Pharmacist;100000;95000
+22;28;Female;Single;2;;HR Manager;80000;75000
+23;33;Male;Married;3;;Web Developer;85000;80000
+24;30;Female;Single;1;;Dentist;140000;130000
+25;35;Male;Single;2;;Veterinarian;110000;105000
+26;29;Female;Married;4;;Journalist;55000;50000
+27;27;Male;Single;3;;Plumber;50000;45000
+28;31;Female;Single;2;;Mechanic;60000;55000
+29;32;Male;Married;5;;Flight Attendant;75000;70000
+30;24;Female;Single;2;;Professor;90000;85000
+31;28;Male;Single;3;;Electrician;45000;40000
+32;30;Female;Married;1;;Chef;65000;60000
+33;35;Male;Single;2;;Police Officer;70000;65000
+34;27;Female;Single;3;;Firefighter;75000;70000
+35;31;Male;Married;4;;Pilot;130000;120000
+36;29;Female;Single;2;;Librarian;50000;45000
+37;26;Male;Single;3;;Real Estate Agent;75000;70000
+38;34;Female;Married;4;;Pharmacist;100000;95000
+39;32;Male;Single;2;;HR Manager;80000;75000
+40;30;Female;Married;1;;Web Developer;85000;80000
+41;28;Male;Single;3;;Dentist;140000;130000
+42;33;Female;Single;4;;Veterinarian;110000;105000
+43;26;Male;Married;2;;Journalist;55000;50000
+44;31;Female;Single;3;;Plumber;50000;45000
+45;27;Male;Single;2;;Mechanic;60000;55000
+46;35;Female;Married;1;;Flight Attendant;75000;70000
+47;30;Male;Single;3;;Professor;90000;85000
+48;32;Female;Single;4;;Electrician;45000;40000
+49;29;Male;Married;5;;Chef;65000;60000
+50;34;Female;Single;2;;Police Officer;70000;65000
